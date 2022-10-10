@@ -1,6 +1,5 @@
-[<back]
+[<back](readme.md)
 
-(readme.md)
 Команды GIT
 
 **git init**	создает локальный репозиторий
